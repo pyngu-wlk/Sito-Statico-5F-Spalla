@@ -1,1 +1,2 @@
 #Sito-Statico-5F-Spalla
+il sito sarà un monopage molto semplice. Molto probabilmente la mia tesina sarà sul fumetto come letteratura, concentrandomi principalmente sulle graphic novel della seconda metà del novento, soprattutto quelle italiane e inglese. il sito avrà quindi una prima introduzione generale sulla storia delle graphic novel e perchè queste dovrebbero essere considerate opere letterarie. in seguito ci saranno diverse sezioni in base alla nazione in ognuna delle quali ci sarà una breve descrizione delle opere di maggiore rilievo e dei loro autori.
